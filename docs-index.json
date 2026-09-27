@@ -1,0 +1,371 @@
+{
+  "folders": [
+    {
+      "name": "01_Two_Pointers_Patterns",
+      "title": "Two Pointers Patterns",
+      "path": "docs/01_Two_Pointers_Patterns",
+      "files": [
+        {
+          "name": "01_two_pointers_notes.md",
+          "title": "Two Pointers Notes",
+          "path": "docs/01_Two_Pointers_Patterns/01_two_pointers_notes.md"
+        },
+        {
+          "name": "02_two_pointers_problems.md",
+          "title": "Two Pointers Problems",
+          "path": "docs/01_Two_Pointers_Patterns/02_two_pointers_problems.md"
+        },
+        {
+          "name": "03_two_pointers_extended.md",
+          "title": "Two Pointers Extended",
+          "path": "docs/01_Two_Pointers_Patterns/03_two_pointers_extended.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "02_Sliding_Window_Patterns",
+      "title": "Sliding Window Patterns",
+      "path": "docs/02_Sliding_Window_Patterns",
+      "files": [
+        {
+          "name": "01_sliding_window_pattern_notes.md",
+          "title": "Sliding Window Pattern Notes",
+          "path": "docs/02_Sliding_Window_Patterns/01_sliding_window_pattern_notes.md"
+        },
+        {
+          "name": "02_sliding_window_pattern_problems.md",
+          "title": "Sliding Window Pattern Problems",
+          "path": "docs/02_Sliding_Window_Patterns/02_sliding_window_pattern_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "03_Slow_And_Fast_Pointers_Pattern",
+      "title": "Slow and Fast Pointers Pattern",
+      "path": "docs/03_Slow_And_Fast_Pointers_Pattern",
+      "files": [
+        {
+          "name": "01_slow_fast_pointers_notes_old.md",
+          "title": "Slow Fast Pointers Notes Old",
+          "path": "docs/03_Slow_And_Fast_Pointers_Pattern/01_slow_fast_pointers_notes_old.md"
+        },
+        {
+          "name": "01_slow_fast_pointers_notes.md",
+          "title": "Slow Fast Pointers Notes",
+          "path": "docs/03_Slow_And_Fast_Pointers_Pattern/01_slow_fast_pointers_notes.md"
+        },
+        {
+          "name": "02_slow_fast_pointers_problems.md",
+          "title": "Slow Fast Pointers Problems",
+          "path": "docs/03_Slow_And_Fast_Pointers_Pattern/02_slow_fast_pointers_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "04_Kadane_Pattern",
+      "title": "Kadane Pattern",
+      "path": "docs/04_Kadane_Pattern",
+      "files": [
+        {
+          "name": "01_kadane_pattern_notes.md",
+          "title": "Kadane Pattern Notes",
+          "path": "docs/04_Kadane_Pattern/01_kadane_pattern_notes.md"
+        },
+        {
+          "name": "02_kadane_pattern_problems.md",
+          "title": "Kadane Pattern Problems",
+          "path": "docs/04_Kadane_Pattern/02_kadane_pattern_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "05_Prefix_Sum_Pattern",
+      "title": "Prefix Sum Pattern",
+      "path": "docs/05_Prefix_Sum_Pattern",
+      "files": [
+        {
+          "name": "01_prefix_sum_notes.md",
+          "title": "Prefix Sum Notes",
+          "path": "docs/05_Prefix_Sum_Pattern/01_prefix_sum_notes.md"
+        },
+        {
+          "name": "02_prefix_sum_problems.md",
+          "title": "Prefix Sum Problems",
+          "path": "docs/05_Prefix_Sum_Pattern/02_prefix_sum_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "06_Merge_Interval_Pattern",
+      "title": "Merge Interval Pattern",
+      "path": "docs/06_Merge_Interval_Pattern",
+      "files": [
+        {
+          "name": "01_merge_interval_notes.md",
+          "title": "Merge Interval Notes",
+          "path": "docs/06_Merge_Interval_Pattern/01_merge_interval_notes.md"
+        },
+        {
+          "name": "02_merge_interval_problems.md",
+          "title": "Merge Interval Problems",
+          "path": "docs/06_Merge_Interval_Pattern/02_merge_interval_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "07_Stack_Pattern",
+      "title": "Stack Pattern",
+      "path": "docs/07_Stack_Pattern",
+      "files": [
+        {
+          "name": "01_stack_notes.md",
+          "title": "Stack Notes",
+          "path": "docs/07_Stack_Pattern/01_stack_notes.md"
+        },
+        {
+          "name": "02_stack_problems.md",
+          "title": "Stack Problems",
+          "path": "docs/07_Stack_Pattern/02_stack_problems.md"
+        }
+      ],
+      "children": [
+        {
+          "name": "old-ref",
+          "title": "Old Ref",
+          "path": "docs/07_Stack_Pattern/old-ref",
+          "files": [
+            {
+              "name": "01-monotonic-stack.md",
+              "title": "Monotonic Stack",
+              "path": "docs/07_Stack_Pattern/old-ref/01-monotonic-stack.md"
+            },
+            {
+              "name": "02-stack-count.md",
+              "title": "Stack Count",
+              "path": "docs/07_Stack_Pattern/old-ref/02-stack-count.md"
+            },
+            {
+              "name": "03-stack-simulation.md",
+              "title": "Stack Simulation",
+              "path": "docs/07_Stack_Pattern/old-ref/03-stack-simulation.md"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "08_HashMap_Pattern",
+      "title": "Hashmap Pattern",
+      "path": "docs/08_HashMap_Pattern",
+      "files": [
+        {
+          "name": "01_hashmap_notes.md",
+          "title": "Hashmap Notes",
+          "path": "docs/08_HashMap_Pattern/01_hashmap_notes.md"
+        },
+        {
+          "name": "02_hashmap_problems.md",
+          "title": "Hashmap Problems",
+          "path": "docs/08_HashMap_Pattern/02_hashmap_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "09_In-Place_Reversal_LinkedList",
+      "title": "in Place Reversal Linkedlist",
+      "path": "docs/09_In-Place_Reversal_LinkedList",
+      "files": [
+        {
+          "name": "01_inplace_reversal_notes.md",
+          "title": "Inplace Reversal Notes",
+          "path": "docs/09_In-Place_Reversal_LinkedList/01_inplace_reversal_notes.md"
+        },
+        {
+          "name": "02_inplace_reversal_problems.md",
+          "title": "Inplace Reversal Problems",
+          "path": "docs/09_In-Place_Reversal_LinkedList/02_inplace_reversal_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "10_Binary_Search_Pattern",
+      "title": "Binary Search Pattern",
+      "path": "docs/10_Binary_Search_Pattern",
+      "files": [
+        {
+          "name": "01_binary_search_pattern_notes.md",
+          "title": "Binary Search Pattern Notes",
+          "path": "docs/10_Binary_Search_Pattern/01_binary_search_pattern_notes.md"
+        },
+        {
+          "name": "02_binary_search_pattern_problems.md",
+          "title": "Binary Search Pattern Problems",
+          "path": "docs/10_Binary_Search_Pattern/02_binary_search_pattern_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "11_Cyclic_Sort_Pattern",
+      "title": "Cyclic Sort Pattern",
+      "path": "docs/11_Cyclic_Sort_Pattern",
+      "files": [
+        {
+          "name": "01_cyclic_sort_notes.md",
+          "title": "Cyclic Sort Notes",
+          "path": "docs/11_Cyclic_Sort_Pattern/01_cyclic_sort_notes.md"
+        },
+        {
+          "name": "02_cyclic_sort_problems.md",
+          "title": "Cyclic Sort Problems",
+          "path": "docs/11_Cyclic_Sort_Pattern/02_cyclic_sort_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "12_Heap_Pattern",
+      "title": "Heap Pattern",
+      "path": "docs/12_Heap_Pattern",
+      "files": [
+        {
+          "name": "01_heap_notes.md",
+          "title": "Heap Notes",
+          "path": "docs/12_Heap_Pattern/01_heap_notes.md"
+        },
+        {
+          "name": "02_heap_problems.md",
+          "title": "Heap Problems",
+          "path": "docs/12_Heap_Pattern/02_heap_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "13_Recusrion_And_Backtracking",
+      "title": "Recusrion and Backtracking",
+      "path": "docs/13_Recusrion_And_Backtracking",
+      "files": [
+        {
+          "name": "01_recursion_backtracking_notes.md",
+          "title": "Recursion Backtracking Notes",
+          "path": "docs/13_Recusrion_And_Backtracking/01_recursion_backtracking_notes.md"
+        },
+        {
+          "name": "02_recursion_backtracking_problems.md",
+          "title": "Recursion Backtracking Problems",
+          "path": "docs/13_Recusrion_And_Backtracking/02_recursion_backtracking_problems.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "14_Trees_Pattern",
+      "title": "Trees Pattern",
+      "path": "docs/14_Trees_Pattern",
+      "files": [
+        {
+          "name": "striver_propeers_tree.md",
+          "title": "Striver Propeers Tree",
+          "path": "docs/14_Trees_Pattern/striver_propeers_tree.md"
+        },
+        {
+          "name": "tree_traversal.md",
+          "title": "Tree Traversal",
+          "path": "docs/14_Trees_Pattern/tree_traversal.md"
+        },
+        {
+          "name": "Trees_MySolutions.md",
+          "title": "Trees Mysolutions",
+          "path": "docs/14_Trees_Pattern/Trees_MySolutions.md"
+        },
+        {
+          "name": "01_tree_notes.md",
+          "title": "Tree Notes",
+          "path": "docs/14_Trees_Pattern/01_tree_notes.md"
+        },
+        {
+          "name": "02_tree_problems_updated.md",
+          "title": "Tree Problems Updated",
+          "path": "docs/14_Trees_Pattern/02_tree_problems_updated.md"
+        },
+        {
+          "name": "02_tree_problems.md",
+          "title": "Tree Problems",
+          "path": "docs/14_Trees_Pattern/02_tree_problems.md"
+        },
+        {
+          "name": "03_tree_important.md",
+          "title": "Tree Important",
+          "path": "docs/14_Trees_Pattern/03_tree_important.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "15_Graph_Pattern",
+      "title": "Graph Pattern",
+      "path": "docs/15_Graph_Pattern",
+      "files": [
+        {
+          "name": "01_graph_notes.md",
+          "title": "Graph Notes",
+          "path": "docs/15_Graph_Pattern/01_graph_notes.md"
+        },
+        {
+          "name": "02_graph_problems.md",
+          "title": "Graph Problems",
+          "path": "docs/15_Graph_Pattern/02_graph_problems.md"
+        },
+        {
+          "name": "03_graph_beginners_problems.md",
+          "title": "Graph Beginners Problems",
+          "path": "docs/15_Graph_Pattern/03_graph_beginners_problems.md"
+        },
+        {
+          "name": "04_graph_algorithms_quick_revision.md",
+          "title": "Graph Algorithms Quick Revision",
+          "path": "docs/15_Graph_Pattern/04_graph_algorithms_quick_revision.md"
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "16_Dynamic_Programming_Pattern",
+      "title": "Dynamic Programming Pattern",
+      "path": "docs/16_Dynamic_Programming_Pattern",
+      "files": [
+        {
+          "name": "01_dp_notes.md",
+          "title": "Dp Notes",
+          "path": "docs/16_Dynamic_Programming_Pattern/01_dp_notes.md"
+        },
+        {
+          "name": "02_dp_problems.md",
+          "title": "Dp Problems",
+          "path": "docs/16_Dynamic_Programming_Pattern/02_dp_problems.md"
+        },
+        {
+          "name": "03_dp_patterns_level1.md",
+          "title": "Dp Patterns Level1",
+          "path": "docs/16_Dynamic_Programming_Pattern/03_dp_patterns_level1.md"
+        },
+        {
+          "name": "04_dp_patterns_level2.md",
+          "title": "Dp Patterns Level2",
+          "path": "docs/16_Dynamic_Programming_Pattern/04_dp_patterns_level2.md"
+        }
+      ],
+      "children": []
+    }
+  ]
+}
